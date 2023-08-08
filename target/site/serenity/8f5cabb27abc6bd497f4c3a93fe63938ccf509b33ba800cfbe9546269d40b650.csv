@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Crud test","This method will create a Token","SUCCESS","2023-08-08T16:35:04.846+01:00[Europe/London]","0.0","6.68"
+"Crud test","This method will create a booking","SUCCESS","2023-08-08T16:35:11.556+01:00[Europe/London]","0.0","1.12"
+"Crud test","This method will verify new Booking ID creation","SUCCESS","2023-08-08T16:35:12.681+01:00[Europe/London]","0.0","1.18"
+"Crud test","This method will get booking with Id","SUCCESS","2023-08-08T16:35:13.862+01:00[Europe/London]","0.0","1.19"
+"Crud test","This method will updated a booking with ID","SUCCESS","2023-08-08T16:35:15.055+01:00[Europe/London]","0.0","1.85"
+"Crud test","This method will delete a booking with ID","SUCCESS","2023-08-08T16:35:16.908+01:00[Europe/London]","0.0","2.01"
